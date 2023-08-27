@@ -1,0 +1,5 @@
+package com.rafaelabreu.hrworker.repositories;
+
+public class WorkerRepository {
+
+}
