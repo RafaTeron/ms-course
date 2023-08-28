@@ -155,3 +155,26 @@
 2023-08-27 12:28:08,385 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-08-27 12:28:08,389 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafae\OneDrive\Documentos\PROGRAMAÇAO\UDEMY - MICROSSERVIÇOS & JWT\ms-course\hr-payroll\src\test\resources
 2023-08-27 12:32:37,465 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-27 12:32:37,479 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-27 12:32:37,483 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafae\OneDrive\Documentos\PROGRAMAÇAO\UDEMY - MICROSSERVIÇOS & JWT\ms-course\hr-payroll\src\test\resources
+2023-08-28 05:15:09,750 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-08-28 05:33:16,496 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-28 05:33:16,595 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-28 05:33:16,604 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafae\OneDrive\Documentos\PROGRAMAÇAO\UDEMY - MICROSSERVIÇOS & JWT\ms-course\hr-payroll\src\test\resources
+2023-08-28 05:33:39,757 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-28 05:33:39,777 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-28 05:33:39,789 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafae\OneDrive\Documentos\PROGRAMAÇAO\UDEMY - MICROSSERVIÇOS & JWT\ms-course\hr-payroll\src\test\resources
+2023-08-28 05:34:25,442 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-28 05:34:25,461 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-28 05:34:25,466 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafae\OneDrive\Documentos\PROGRAMAÇAO\UDEMY - MICROSSERVIÇOS & JWT\ms-course\hr-payroll\src\test\resources
+2023-08-28 05:34:27,854 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-28 05:34:27,868 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-28 05:34:27,872 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafae\OneDrive\Documentos\PROGRAMAÇAO\UDEMY - MICROSSERVIÇOS & JWT\ms-course\hr-payroll\src\test\resources
+2023-08-28 05:34:37,176 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-28 05:34:37,208 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-28 05:34:37,215 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafae\OneDrive\Documentos\PROGRAMAÇAO\UDEMY - MICROSSERVIÇOS & JWT\ms-course\hr-payroll\src\test\resources
+2023-08-28 05:35:45,844 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-28 05:35:45,857 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-28 05:35:45,862 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafae\OneDrive\Documentos\PROGRAMAÇAO\UDEMY - MICROSSERVIÇOS & JWT\ms-course\hr-payroll\src\test\resources
+2023-08-28 05:35:50,309 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-28 05:35:50,323 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
